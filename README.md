@@ -14,3 +14,6 @@ Features
 //Requirements//
 Hardware: Drones equipped with LIDAR sensors, color sensors, flight controllers, and communication modules.
 Software: Developed in C++ with Arduino IDE.
+
+![ss2](https://github.com/Mishra-0709/BOTBRAINS-BATTLE-Real-World-Rumble-Round3/assets/143344990/3baa5906-f021-4582-a9a7-13dbccbb66c7)
+
