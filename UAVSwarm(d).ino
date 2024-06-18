@@ -64,6 +64,7 @@ void loop() {
 }
 
 // Inputs as classes with defined return value(Example CASES)
+//MOCK CLASSES
 class LIDAR {
 public:
   void begin() {
